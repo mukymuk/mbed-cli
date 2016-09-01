@@ -109,7 +109,7 @@ regex_build_url = r'^(https?://([\w\-\.]*mbed\.(co\.uk|org|com))/(users|teams)/(
 # base url for all mbed related repos (used as sort of index)
 mbed_base_url = 'https://github.com/ARMmbed'
 # default mbed OS url
-mbed_os_url = 'https://github.com/ARMmbed/mbed-os'
+mbed_os_url = 'https://github.com/mukymuk/mbed-os'
 # default mbed library url
 mbed_lib_url = 'https://mbed.org/users/mbed_official/code/mbed/builds/'
 # mbed SDK tools needed for programs based on mbed SDK library
